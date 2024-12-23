@@ -1,0 +1,14 @@
+*{
+  margin:0;
+  padding:0;
+}
+h1{
+  font-size: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+  text-shadow: 2px 2px 4px black;
+  background-color: rgb(53, 212, 204);
+
+}
